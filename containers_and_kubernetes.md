@@ -4,11 +4,10 @@
 * [Slides](./Slides/sampleslides.pptx)
 
 
-## Your Name<!-- include: ella_polo.md -->
+## Ella Polo<!-- include: ella_polo.md -->
 
-* [Your Blog](https://you.blogspot.com/)
-* [Your Others links](https://google.com/you)
+* [Linkedin](https://www.linkedin.com/in/ella-polo/)
 
-A bit about you
+I am a software engineer and artist from Chicago, Illinois. 
 <!-- endInclude -->
 
